@@ -53,8 +53,7 @@ Welcome to the **Advanced Budget Tracker** project! This application is designed
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/AkshandraSingh/BudgetTracker
-   cd BudgetTracker
+     https://github.com/Japneets16/Spend-Wise.git
    ```
 
 2. **Install dependencies**:
